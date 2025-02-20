@@ -1,7 +1,7 @@
 <h2> 👋Hello there! I am Gagan. 
 <img align="right" alt="GIF" src="https://shorturl.at/kr7U7" width="400px"/>
 <h3> 👨🏻‍💻 About Me </h3>
-- 🔭  I’m currently learning React js, Express js. 
+- 🔭  I’m currently learning Backened Development with JS Framworks(Express,Node). 
   <br>
 - 🎓 Studying Computer Science, computer programming.
   <br>
