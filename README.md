@@ -1,7 +1,7 @@
 <h2> 👋Hello there! I am Gagan. 
 <img align="right" alt="GIF" src="https://shorturl.at/kr7U7" width="400px"/>
 <h3> 👨🏻‍💻 About Me </h3>
-- 🔭  I’m currently Web Development (Mern Stack). 
+- 🔭  I’m currently Learning Javascript and Mern Stack. 
   <br>
 - 🎓 Studying Computer Science, computer programming.
   <br>
