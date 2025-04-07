@@ -8,11 +8,11 @@
 - 🌱  Enthusiast in Data Structures and Web Development.
   <br>
 <h3>🛠 Tech Stack</h3>
-- 💻  Java 
+- 💻  Java (DSA)
   <br>
-- 🌐  HTML | CSS | JavaScript 
+- 🌐  HTML | CSS | JavaScript | Node | TailwindCss | Express | MongoDB
   <br>
-- 🔧  Visual Studio code | Git
+- 🔧  Visual Studio code | Git | Github 
 <br>
 
 <h3> 🤝🏻 Connect with Me </h3>
