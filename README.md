@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 - 🔭  I’m currently Learning backened frameworks(Full Stack) and DSA. 
   <br>
-- 🎓 Studying Computer Science, computer programming.
+- 🎓 Studying Computer Science, computer programming & Skills.
   <br>
 - 🌱  Enthusiast in Data Structures and Web Development.
   <br>
