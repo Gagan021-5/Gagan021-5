@@ -12,7 +12,7 @@
   <br>
 - 🌐  HTML | CSS | JavaScript | Node | TailwindCss | Express | MongoDB
   <br>
-- 🔧  Visual Studio code | Git | Github 
+- 🔧  Visual Studio code | Git | Github | GitBash
 <br>
 
 <h3> 🤝🏻 Connect with Me </h3>
