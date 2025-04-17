@@ -1,11 +1,11 @@
 <h2> 👋Hello there! I am Gagan. 
 <img align="right" alt="GIF" src="https://shorturl.at/kr7U7" width="400px"/>
 <h3> 👨🏻‍💻 About Me </h3>
-- 🔭  I’m currently Learning backened frameworks(Full Stack) and DSA. 
+- 🔭  I’m currently Learning backened frameworks(Full Stack) and DSA.
   <br>
 - 🎓 Studying Computer Science, computer programming & Skills.
   <br>
-- 🌱  Enthusiast in Data Structures, AI-ML ,Web Development,.
+- 🌱  Enthusiast in Data Structures, AI-ML ,Web Development.
   <br>
 <h3>🛠 Tech Stack</h3>
 - 💻  Java (DSA) , C++ (OOPS),C Language
