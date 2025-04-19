@@ -8,7 +8,7 @@
 - 🌱  Enthusiast in Data Structures, AI-ML ,Web Development.
   <br>
 <h3>🛠 Tech Stack</h3>
-- 💻  Java (DSA) , C++ (OOPS),C Language
+- 💻  Java (DSA)
   <br>
 - 🌐  HTML | CSS | JavaScript | Node | TailwindCss | Express | MongoDB
   <br>
