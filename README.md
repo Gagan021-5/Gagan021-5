@@ -5,7 +5,7 @@
   <br>
 - 🎓 Studying Computer Science, computer programming & Skills.
   <br>
-- 🌱  Enthusiast in Data Structures, AI-ML ,Web Development.
+- 🌱  Enthusiast in Data Structures, AI-ML ,Web Development. 
   <br>
 <h3>🛠 Tech Stack</h3>
 - 💻  Java (DSA)
