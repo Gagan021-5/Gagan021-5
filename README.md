@@ -11,6 +11,8 @@
   <li>🔭 I’m currently Learning Mern Stack and Javascript.</li>
   <li>🎓 Studying Computer Science, computer programming & Skills.</li>
   <li>🌱 Enthusiast in Data Structures, AI-ML, and Web Development.</li>
+  <li>🦖 I can code with all the <strong>courage it takes to debug CSS in Internet Explorer!</strong> 💀</li>
+
 </ul>
 
 ---
