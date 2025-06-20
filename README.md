@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Framework-Node.js-informational?style=flat&logo=node.js&color=green" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Framework-TailwindCSS-informational?style=flat&logo=tailwindcss&color=blue" alt="TailwindCSS"/>
   <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&color=orange" alt="Git"/>
-  <img src="https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&color=black" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=181717" alt="GitHub"/>
 </p>
 
 ---
