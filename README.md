@@ -8,7 +8,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 <ul>
-  <li>🔭 I’m currently Learning Full Stack Web Developmentc and Multi AI Agent .</li>
+  <li>🔭 I’m currently Learning Full Stack Web Development and Multi AI Agents .</li>
   <li>🎓 Studying Computer Science, computer programming & Skills.</li>
   <li>🌱 Fanatic in Data Structures, AI-ML, and Web Development.</li>
   <li>🦖 I can code with all the <strong>courage it takes to debug CSS in Internet Explorer!</strong> 💀</li>
