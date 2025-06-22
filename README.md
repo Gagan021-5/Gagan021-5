@@ -17,15 +17,21 @@
 
 ---
 
-<h3>🛠 Tech Stack</h3>
-<p>
-  <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=blue" alt="Java"/>
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=yellow" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Framework-Node.js-informational?style=flat&logo=node.js&color=green" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Framework-TailwindCSS-informational?style=flat&logo=tailwindcss&color=blue" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&color=orange" alt="Git"/>
-  <img src="https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=181717" alt="GitHub"/>
-</p>
+### 🛠 Tech Stack
+
+![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=blue)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=yellow)
+![React](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB)
+![Redux](https://img.shields.io/badge/State-Redux-informational?style=flat&logo=redux&color=764ABC)
+![Express.js](https://img.shields.io/badge/Framework-Express.js-informational?style=flat&logo=express&color=black)
+![Node.js](https://img.shields.io/badge/Framework-Node.js-informational?style=flat&logo=node.js&color=green)
+![TailwindCSS](https://img.shields.io/badge/Framework-TailwindCSS-informational?style=flat&logo=tailwindcss&color=blue)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&color=47A248)
+![SQL](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=mysql&color=4479A1)
+![Firebase](https://img.shields.io/badge/Backend-Firebase-informational?style=flat&logo=firebase&color=FFCA28)
+![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&color=orange)
+![GitHub](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=181717)
+
 
 ---
 
