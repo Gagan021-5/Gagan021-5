@@ -10,7 +10,7 @@
 <ul>
   <li>🔭 I’m currently Learning Full Stack Web Development .</li>
   <li>🎓 Studying Computer Science, computer programming & Skills.</li>
-  <li>🌱 Fanatic in Data Structures, AI-ML, and Web Development.</li>
+  <li>🌱 Enthusiast win Data Structures, Exploring AI-ML and Web Development.</li>
   <li>🦖 I can code with all the <strong>courage it takes to debug CSS in Internet Explorer!</strong> 💀</li>
 
 </ul>
