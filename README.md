@@ -1,16 +1,14 @@
-
 <h1 align="center">👋 Hey there, I'm Gagan!</h1>
 
 <p align="center">
   <img src="https://shorturl.at/kr7U7" width="350px" alt="Welcome GIF" />
 </p>
 
-<p align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=334EF7&width=435&lines=Web+Developer;Exploring+Gen+AI+with+Full+Stack;Building+a+strong+foundation+in+Algorithms" alt="Typing SVG" />
   </a>
-</p>
-
+</div>
 
 ---
 
@@ -20,7 +18,6 @@
 - 🎓 Pursuing Computer Science & leveling up my programming skills
 - 🌱 Passionate about **Data Structures**, **AI/ML**, and next-gen Web Technologies
 - 🦖 Bold enough to debug CSS in Internet Explorer 💀
-
 
 ---
 
@@ -59,16 +56,16 @@
 
 <p align="center">
   <a href="https://x.com/Gagan_zs" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="48" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/X-334EF7?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://www.instagram.com/gagan_yet/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="48" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-334EF7?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.linkedin.com/in/gagan-singh-145781321/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="48" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-334EF7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:gagansingh010221@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="48" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-334EF7?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
@@ -83,3 +80,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
+
