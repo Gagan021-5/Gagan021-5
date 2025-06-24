@@ -17,7 +17,7 @@
 - 🎓 Pursuing Computer Science & leveling up my programming skills
 - 🌱 Passionate about **Data Structures**, **AI/ML**, and next-gen Web Technologies
 - 🦖 Bold enough to debug CSS in Internet Explorer 💀
-- 💡 Always curious, always learning, always shipping!
+
 
 ---
 
