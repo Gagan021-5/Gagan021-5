@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey there, I'm Gagan </h1>
 
-<p align="center">
+<p align="center"> 
   <img src="https://shorturl.at/kr7U7" width="350px" alt="Welcome GIF" />
 </p>
  
