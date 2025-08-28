@@ -16,7 +16,7 @@
 ## 👨🏻‍💻 About Me
 
 - 🔭 Currently diving deep into **Full Stack Web Development**
-- 🎓 Pursuing Computer Science & leveling up my programming skills
+- 🎓 Pursuing Computer Science & Mapping skills with Real World Implementations.
 - 🌱 Passionate about **Data Structures**, **AI/ML**, and next-gen Web Technologies
 - 🦖 Bold enough to debug CSS in Internet Explorer 💀
 
