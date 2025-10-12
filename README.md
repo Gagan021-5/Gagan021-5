@@ -15,7 +15,7 @@
 
 ## 👨🏻‍💻 About Me
 
-- 🔭 Currently diving deep into **Full Stack Web Development**
+- 🔭 Currently diving deep into Machine Learning.
 - 🎓 Pursuing Computer Science & Mapping skills with Real World Implementations.
 - 🌱 Exploring **SuperVised Learning**, and Gen AI Web Technologies 
 - 🦖 Bold enough to debug CSS in Internet Explorer 💀
