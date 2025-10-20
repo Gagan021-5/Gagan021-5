@@ -18,7 +18,7 @@
 - 🔭 Currently diving deep into Machine Learning.
 - 🎓 Pursuing Computer Science & Mapping skills with Real World Implementations.
 - 🌱 Exploring **SuperVised Learning**, and Gen AI Web Technologies 
-- 🦖Learning to inherit logic like a pro—just hoping I don’t get stuck in a recursion loop🚀
+- 🦖 I write code like I’m writing a novel—endless drafts, zero plot, and a lot of confusion. 💀
 
 ---
 
