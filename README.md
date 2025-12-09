@@ -18,7 +18,7 @@
 - 🔭 Currently diving deep into Machine Learning.
 - 🎓 Pursuing Computer Science & Mapping skills with Real World Implementations.
 - 🌱 Exploring **UnSuperVised Learning**, and Gen AI Web Technologies 
-- 🦖 I can write Code, I can play Games at the same time (Mostly with PC and PS5). 💀
+- 🦖 I can write Code, I can play Games at the same time (Either in PC and PS5). 💀
 
 ---
 
