@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm Gagan </h1>
  
 <p align="center">   
-  <img src="https://tenor.com/view/cat-glasses-gif-11552436938758168104.gif" width="350px" alt="Welcome GIF" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzh4Yzd2dml1bjdtNzA1ZTZlaHlpb3RkOHNqMTNzc3Ewdjlxdjd6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lOhd7ncRuqNF3xEG8n/giphy.gif" width="350px" alt="Welcome GIF" />
 </p>
  
 <div align="center">   
