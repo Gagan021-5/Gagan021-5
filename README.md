@@ -44,6 +44,26 @@
 
 ---
 
+## 🐍 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://github.com/Gagan021-5/Gagan021-5/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://github.com/Gagan021-5/Gagan021-5/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake Animation" 
+      src="https://github.com/Gagan021-5/Gagan021-5/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/Gagan021-5/Gagan021-5?style=for-the-badge&color=brightgreen" />
+  <img src="https://img.shields.io/github/actions/workflow/status/Gagan021-5/Gagan021-5/snake.yml?style=for-the-badge" />
+</p>
+
+---
+
 ## 🌐 Connect with Me 
 
 <p align="center">
