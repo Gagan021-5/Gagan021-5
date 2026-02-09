@@ -31,6 +31,7 @@ jobs:
       # and push it, which triggers the 'pages-build-deployment' you saw in the image.
       - name: Create timestamp to force commit
         run: |
+          sudo chmod 777 dist
           date > dist/last_updated.txt
 
       - name: Push snake to output branch
