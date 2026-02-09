@@ -2,7 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    # This runs every 12 hours (roughly 5:30 AM and 5:30 PM India time)
+    - cron: "0 */12 * * *" 
   workflow_dispatch:
 
 permissions:
@@ -23,6 +24,14 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # --- THIS IS THE SECRET SAUCE ---
+      # This creates a small text file with the current time.
+      # Because time always changes, this forces the system to detect a "change"
+      # and push it, which triggers the 'pages-build-deployment' you saw in the image.
+      - name: Create timestamp to force commit
+        run: |
+          date > dist/last_updated.txt
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
