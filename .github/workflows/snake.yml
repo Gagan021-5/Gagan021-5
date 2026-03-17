@@ -1,43 +1,29 @@
-name: Generate Snake
+name: Auto Daily Commits
 
 on:
   schedule:
-    # This runs every 12 hours (roughly 5:30 AM and 5:30 PM India time)
-    - cron: "0 */12 * * *" 
-  workflow_dispatch:
-
-permissions:
-  contents: write
+    - cron: '0 9 * * *'   # First commit — 9:00 AM UTC daily
+    - cron: '0 18 * * *'  # Second commit — 6:00 PM UTC daily
+  workflow_dispatch:       # Lets you trigger it manually too
 
 jobs:
-  generate:
+  auto-commit:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Generate snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: Gagan021-5
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      # --- THIS IS THE SECRET SAUCE ---
-      # This creates a small text file with the current time.
-      # Because time always changes, this forces the system to detect a "change"
-      # and push it, which triggers the 'pages-build-deployment' you saw in the image.
-      - name: Create timestamp to force commit
+      - name: Make a change
         run: |
-          sudo chmod 777 dist
-          date > dist/last_updated.txt
+          echo "Auto commit on $(date)" >> auto_log.txt
 
-      - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "chore: auto commit $(date '+%Y-%m-%d %H:%M')"
+          git push
