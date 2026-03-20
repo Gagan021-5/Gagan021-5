@@ -23,7 +23,7 @@ jobs:
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.email "gagansingh010221@gmail.com"
           git add .
           git commit -m "chore: auto commit $(date '+%Y-%m-%d %H:%M')"
           git push
