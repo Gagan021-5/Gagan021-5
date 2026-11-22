@@ -1,7 +1,11 @@
 <h1 align="center">👋 Hey there, I'm Gagan </h1>
  
-<p align="center">   
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzh4Yzd2dml1bjdtNzA1ZTZlaHlpb3RkOHNqMTNzc3Ewdjlxdjd6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lOhd7ncRuqNF3xEG8n/giphy.gif" width="350px" alt="Welcome GIF" />
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/If0yMcQz2NETVIQzYf/giphy.gif"
+    width="500"
+    alt="Call of Duty Lock In GIF"
+  />
 </p>
  
 <div align="center">   
