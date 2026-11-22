@@ -3,7 +3,7 @@
 <p align="center">
   <img
     src="https://media.giphy.com/media/If0yMcQz2NETVIQzYf/giphy.gif"
-    width="500"
+    width="350"
     alt="Call of Duty Lock In GIF"
   />
 </p>
