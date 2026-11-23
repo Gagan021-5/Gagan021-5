@@ -19,7 +19,7 @@
 
 ## 👨🏻‍💻 About Me
 
-- 🔭 Currently diving deep into **Machine Learning**. 
+- 🔭 Currently diving deep into **AI Automation Systems**. 
 - 🎓 Pursuing **Computer Science** and mapping skills with **real-world implementations**. 
 - 🌱 Exploring **Advance AI Agents**, **building software**, **cloud computing**, and **hosting services**.  
 - 🦖 I can write code, I can play games at the same time!
