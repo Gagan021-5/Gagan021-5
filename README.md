@@ -21,7 +21,7 @@
 
 - 🔭 Currently diving deep into **Machine Learning**. 
 - 🎓 Pursuing **Computer Science** and mapping skills with **real-world implementations**. 
-- 🌱 Exploring **Unsupervised Learning**, **Gen AI Web Technologies**, **building software**, **cloud computing**, and **hosting services**.  
+- 🌱 Exploring **Advance AI Agents**, **building software**, **cloud computing**, and **hosting services**.  
 - 🦖 I can write code, I can play games at the same time!
 
 ---
